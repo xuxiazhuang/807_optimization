@@ -15,3 +15,4 @@ Lec3 : Linear programming applications in marketing, finance
 
 Lec4 : Supply chain model
 
+Lec5 : Integer Linear programming 
